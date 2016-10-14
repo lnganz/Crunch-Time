@@ -17,27 +17,27 @@ See [CS160 Crunch Time](https://www.youtube.com/watch?v=etKf3p4xLOE)
 
 First Launch
 
-<img src="screenshots/on_launch.png" height="400" alt="Screenshot"/>
+<img src="screenshots/on_launch.PNG" height="400" alt="Screenshot"/>
 
 Exercise Selection
 
-<img src="screenshots/exercise_selection.png" height="400" alt="Screenshot"/>
+<img src="screenshots/exercise_selection.PNG" height="400" alt="Screenshot"/>
 
 Number Selection
 
-<img src="screenshots/number_selection.png" height="400" alt="Screenshot"/>
+<img src="screenshots/number_selection.PNG" height="400" alt="Screenshot"/>
 
 Results
 
-<img src="screenshots/results.png" height="400" alt="Screenshot"/>
+<img src="screenshots/results.PNG" height="400" alt="Screenshot"/>
 
 Error Handling
 
-<img src="screenshots/null_entry.png" height="400" alt="Screenshot"/>
+<img src="screenshots/null_entry.PNG" height="400" alt="Screenshot"/>
 
 Number Formatting
 
-<img src="screenshots/number_format.png" height="400" alt="Screenshot"/>
+<img src="screenshots/number_format.PNG" height="400" alt="Screenshot"/>
 
 
 ## Acknowledgments
